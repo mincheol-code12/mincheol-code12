@@ -24,8 +24,10 @@
   <img src="https://img.shields.io/badge/NumPy-4D77AB?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" height="35" />
   <img src="https://img.shields.io/badge/scikit--learn-B86410?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" height="35" />
   <img src="https://img.shields.io/badge/SciPy-376DA6?style=for-the-badge&amp;logo=scipy&amp;logoColor=white" alt="SciPy" height="35" />
-  <img src="https://img.shields.io/badge/statsmodels-7064A4?style=for-the-badge" alt="statsmodels" height="35" />
+  <img src="https://img.shields.io/badge/statsmodels-7064A4?style=for-the-badge" alt="statsmodels" height="35" /><br />
   <img src="https://img.shields.io/badge/DoWhy-5865A6?style=for-the-badge" alt="DoWhy" height="35" />
+  <img src="https://img.shields.io/badge/Gensim-6B5B95?style=for-the-badge" alt="Gensim" height="35" />
+  <img src="https://img.shields.io/badge/GeoPandas-3D8361?style=for-the-badge" alt="GeoPandas" height="35" />
 </p>
 
 <h3>시각화·BI</h3>
