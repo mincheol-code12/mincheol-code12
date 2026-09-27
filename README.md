@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Used
 
 <h3>분석·모델링</h3>
 <p >
