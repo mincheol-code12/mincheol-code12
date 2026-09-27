@@ -11,36 +11,36 @@
 
 ### 🛠️ Tech Stack
 
-**분석·모델링** · 
+**분석·모델링** · 진한 배지: 현재 주력
 
 ![Python](https://img.shields.io/badge/Python-193D4A?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-193D4A?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-193D4A?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-5A928C?style=flat-square&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-5A928C?style=flat-square&logo=googlebigquery&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-5A928C?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-5A928C?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-5A928C?style=flat-square&logo=scikit-learn&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-5A928C?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-286AB8?style=flat-square&logo=googlebigquery&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-4F5B93?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4D77AB?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-B86410?style=flat-square&logo=scikit-learn&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-7064A4?style=flat-square)
 
 **시각화·BI**
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-5A928C?style=flat-square)
-![Tableau](https://img.shields.io/badge/Tableau-5A928C?style=flat-square&logo=tableau&logoColor=white)
-![Redash](https://img.shields.io/badge/Redash-5A928C?style=flat-square)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-5A928C?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-5A928C?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-287A9E?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-C65E1A?style=flat-square&logo=tableau&logoColor=white)
+![Redash](https://img.shields.io/badge/Redash-C65E69?style=flat-square)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-426FB7?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ### 🧰 Tools
 
-![DBeaver](https://img.shields.io/badge/DBeaver-7B888C?style=flat-square)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-7B888C?style=flat-square&logo=jupyter&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-7B888C?style=flat-square&logo=claudecode&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-7B888C?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-8B817B?style=flat-square&logo=figma&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-8B817B?style=flat-square&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-8B817B?style=flat-square&logo=notion&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-7A624C?style=flat-square)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-B95414?style=flat-square&logo=jupyter&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-B85C3F?style=flat-square&logo=claudecode&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-4E5D70?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-9B5A8E?style=flat-square&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-6C4D85?style=flat-square&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-404040?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
@@ -64,4 +64,4 @@
 **[편의점 입지 분석](https://github.com/mincheol-code12/convenience-store-location-analysis)**<br />
 상권 지표와 대중교통 접근성을 결합해 서울시 편의점 입지를 제안 · 5인 팀 프로젝트
 
-
+<sub>상세 분석 과정과 결과의 한계, 팀 프로젝트의 본인 기여는 각 저장소 README에 정리했습니다.</sub>
