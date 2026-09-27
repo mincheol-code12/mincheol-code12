@@ -25,7 +25,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-B86410?style=flat-square&logo=scikit-learn&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-7064A4?style=flat-square)
 
-**시각화·BI**
+### 시각화·BI**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-287A9E?style=flat-square)
 ![Tableau](https://img.shields.io/badge/Tableau-C65E1A?style=flat-square&logo=tableau&logoColor=white)
