@@ -11,7 +11,7 @@
 
 ### 🛠️ Tech Stack
 
-**분석·모델링** · 진한 배지: 현재 주력
+**분석·모델링** · 
 
 ![Python](https://img.shields.io/badge/Python-193D4A?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-193D4A?style=for-the-badge)
@@ -64,4 +64,4 @@
 **[편의점 입지 분석](https://github.com/mincheol-code12/convenience-store-location-analysis)**<br />
 상권 지표와 대중교통 접근성을 결합해 서울시 편의점 입지를 제안 · 5인 팀 프로젝트
 
-<sub>상세 분석 과정과 결과의 한계, 팀 프로젝트의 본인 기여는 각 저장소 README에 정리했습니다.</sub>
+
