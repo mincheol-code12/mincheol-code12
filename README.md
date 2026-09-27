@@ -85,4 +85,4 @@
 ## 🏆 Awards
 
 - **LG전자 DX School 3기 핵심 역량 프로젝트 우수상** · [LG VOC 분석]
-- **WeIT × DataStation 데이터 프로젝트 1위** · [편의점 입지 분석]
+- **WeIT × DataStation 데이터 프로젝트 대상** · [편의점 입지 분석]
