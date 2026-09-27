@@ -3,16 +3,15 @@
 </p>
 
 <p align="center">
-  안녕하세요, 고민철입니다.<br />
-  맡은 일을 깊이 파고드는 것을 좋아하고, 꾸준히 노력하며 더 나아지려는 태도가 제 강점이라고 생각합니다.📚✨
+  안녕하세요, 고민철입니다.👋<br />
+  맡은 일을 깊이 파고드는 것을 좋아하고,긍정적인 사고방식이 강점입니다!📚✨
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<h3>🧠 분석·모델링</h3>
-
+<h3>분석·모델링</h3>
 <p >
   <img src="https://img.shields.io/badge/Python-193D4A?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="35" />
   <img src="https://img.shields.io/badge/SQL-193D4A?style=for-the-badge" alt="SQL" height="35" />
@@ -27,8 +26,7 @@
   <img src="https://img.shields.io/badge/statsmodels-7064A4?style=flat-square" alt="statsmodels" height="35" />
 </p>
 
-<h3>🖥️ 시각화·BI</h3>
-
+<h3>시각화·BI</h3>
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-287A9E?style=flat-square" alt="Matplotlib" height="35" />
   <img src="https://img.shields.io/badge/Tableau-C65E1A?style=flat-square&amp;logo=tableau&amp;logoColor=white" alt="Tableau" height="35" />
@@ -38,8 +36,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" height="35" />
 </p>
 
-<h3 >🖥️🧰 Tools</h3>
-
+<h3 >Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/DBeaver-7A624C?style=flat-square" alt="DBeaver" height="35" />
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-B95414?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" height="35" />
