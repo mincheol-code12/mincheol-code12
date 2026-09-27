@@ -18,34 +18,36 @@
   <img src="https://img.shields.io/badge/PostgreSQL-193D4A?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="35" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="35" />
-  <img src="https://img.shields.io/badge/BigQuery-286AB8?style=flat-square&amp;logo=googlebigquery&amp;logoColor=white" alt="BigQuery" height="35" />
-  <img src="https://img.shields.io/badge/pandas-4F5B93?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas" height="35" /><br />
-  <img src="https://img.shields.io/badge/NumPy-4D77AB?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" height="35" />
-  <img src="https://img.shields.io/badge/scikit--learn-B86410?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" height="35" />
-  <img src="https://img.shields.io/badge/statsmodels-7064A4?style=flat-square" alt="statsmodels" height="35" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="35" />
+  <img src="https://img.shields.io/badge/BigQuery-286AB8?style=for-the-badge&amp;logo=googlebigquery&amp;logoColor=white" alt="BigQuery" height="35" />
+  <img src="https://img.shields.io/badge/pandas-4F5B93?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="pandas" height="35" /><br />
+  <img src="https://img.shields.io/badge/NumPy-4D77AB?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" height="35" />
+  <img src="https://img.shields.io/badge/scikit--learn-B86410?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" height="35" />
+  <img src="https://img.shields.io/badge/SciPy-376DA6?style=for-the-badge&amp;logo=scipy&amp;logoColor=white" alt="SciPy" height="35" />
+  <img src="https://img.shields.io/badge/statsmodels-7064A4?style=for-the-badge" alt="statsmodels" height="35" />
+  <img src="https://img.shields.io/badge/DoWhy-5865A6?style=for-the-badge" alt="DoWhy" height="35" />
 </p>
 
 <h3>시각화·BI</h3>
 <p>
-  <img src="https://img.shields.io/badge/Matplotlib-287A9E?style=flat-square" alt="Matplotlib" height="35" />
-  <img src="https://img.shields.io/badge/Tableau-C65E1A?style=flat-square&amp;logo=tableau&amp;logoColor=white" alt="Tableau" height="35" />
-  <img src="https://img.shields.io/badge/Redash-C65E69?style=flat-square" alt="Redash" height="35" />
+  <img src="https://img.shields.io/badge/Matplotlib-287A9E?style=for-the-badge" alt="Matplotlib" height="35" />
+  <img src="https://img.shields.io/badge/Tableau-C65E1A?style=for-the-badge&amp;logo=tableau&amp;logoColor=white" alt="Tableau" height="35" />
+  <img src="https://img.shields.io/badge/Redash-C65E69?style=for-the-badge" alt="Redash" height="35" />
   <br />
-  <img src="https://img.shields.io/badge/Looker%20Studio-426FB7?style=flat-square" alt="Looker Studio" height="35" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" height="35" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-426FB7?style=for-the-badge" alt="Looker Studio" height="35" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" height="35" />
 </p>
 
 <h3 >Tools</h3>
 <p>
-  <img src="https://img.shields.io/badge/DBeaver-7A624C?style=flat-square" alt="DBeaver" height="35" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-B95414?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" height="35" />
-  <img src="https://img.shields.io/badge/Claude%20Code-B85C3F?style=flat-square&amp;logo=claudecode&amp;logoColor=white" alt="Claude Code" height="35" />
+  <img src="https://img.shields.io/badge/DBeaver-7A624C?style=for-the-badge" alt="DBeaver" height="35" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-B95414?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" height="35" />
+  <img src="https://img.shields.io/badge/Claude%20Code-B85C3F?style=for-the-badge&amp;logo=claudecode&amp;logoColor=white" alt="Claude Code" height="35" />
   <br />
-  <img src="https://img.shields.io/badge/Codex-4E5D70?style=flat-square" alt="Codex" height="35" />
-  <img src="https://img.shields.io/badge/Figma-9B5A8E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" height="35" />
-  <img src="https://img.shields.io/badge/Slack-6C4D85?style=flat-square&amp;logo=slack&amp;logoColor=white" alt="Slack" height="35" />
-  <img src="https://img.shields.io/badge/Notion-404040?style=flat-square&amp;logo=notion&amp;logoColor=white" alt="Notion" height="35" />
+  <img src="https://img.shields.io/badge/Codex-4E5D70?style=for-the-badge" alt="Codex" height="35" />
+  <img src="https://img.shields.io/badge/Figma-9B5A8E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" height="35" />
+  <img src="https://img.shields.io/badge/Slack-6C4D85?style=for-the-badge&amp;logo=slack&amp;logoColor=white" alt="Slack" height="35" />
+  <img src="https://img.shields.io/badge/Notion-404040?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion" height="35" />
 </p>
 
 ---
