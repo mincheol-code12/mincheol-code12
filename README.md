@@ -11,45 +11,44 @@
 
 ## 🛠️ Tech Stack
 
-### 🧠 분석·모델링
+<h3 align="center">🧠 분석·모델링</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-193D4A?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28" />
-  <img src="https://img.shields.io/badge/SQL-193D4A?style=for-the-badge" alt="SQL" height="28" />
-  <img src="https://img.shields.io/badge/PostgreSQL-193D4A?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="28" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-193D4A?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="35" />
+  <img src="https://img.shields.io/badge/SQL-193D4A?style=for-the-badge" alt="SQL" height="35" />
+  <img src="https://img.shields.io/badge/PostgreSQL-193D4A?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="35" />
+</p><br />
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="35" />
+  <img src="https://img.shields.io/badge/BigQuery-286AB8?style=flat-square&amp;logo=googlebigquery&amp;logoColor=white" alt="BigQuery" height="35" />
+  <img src="https://img.shields.io/badge/pandas-4F5B93?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas" height="35" /><br />
+  <img src="https://img.shields.io/badge/NumPy-4D77AB?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" height="35" />
+  <img src="https://img.shields.io/badge/scikit--learn-B86410?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" height="35" />
+  <img src="https://img.shields.io/badge/statsmodels-7064A4?style=flat-square" alt="statsmodels" height="35" />
 </p>
-<br />
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="28" />
-  <img src="https://img.shields.io/badge/BigQuery-286AB8?style=flat-square&amp;logo=googlebigquery&amp;logoColor=white" alt="BigQuery" height="28" />
-  <img src="https://img.shields.io/badge/pandas-4F5B93?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas" height="28" />
-  <img src="https://img.shields.io/badge/NumPy-4D77AB?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" height="28" />
-  <img src="https://img.shields.io/badge/scikit--learn-B86410?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" height="28" />
-  <img src="https://img.shields.io/badge/statsmodels-7064A4?style=flat-square" alt="statsmodels" height="28" />
-</p>
 
-### 🖥️ 시각화·BI
+<h3 align="center">🖥️ 시각화·BI</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-287A9E?style=flat-square" alt="Matplotlib" height="28" />
-  <img src="https://img.shields.io/badge/Tableau-C65E1A?style=flat-square&amp;logo=tableau&amp;logoColor=white" alt="Tableau" height="28" />
-  <img src="https://img.shields.io/badge/Redash-C65E69?style=flat-square" alt="Redash" height="28" />  
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-287A9E?style=flat-square" alt="Matplotlib" height="35" />
+  <img src="https://img.shields.io/badge/Tableau-C65E1A?style=flat-square&amp;logo=tableau&amp;logoColor=white" alt="Tableau" height="35" />
+  <img src="https://img.shields.io/badge/Redash-C65E69?style=flat-square" alt="Redash" height="35" />
   <br />
-  <img src="https://img.shields.io/badge/Looker%20Studio-426FB7?style=flat-square" alt="Looker Studio" height="28" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" height="28" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-426FB7?style=flat-square" alt="Looker Studio" height="35" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" height="35" />
 </p>
 
-### 🧰 Tools
+<h3 align="center">🖥️🧰 Tools</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/DBeaver-7A624C?style=flat-square" alt="DBeaver" height="28" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-B95414?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" height="28" />
-  <img src="https://img.shields.io/badge/Claude%20Code-B85C3F?style=flat-square&amp;logo=claudecode&amp;logoColor=white" alt="Claude Code" height="28" />  
+<p align="center">
+  <img src="https://img.shields.io/badge/DBeaver-7A624C?style=flat-square" alt="DBeaver" height="35" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-B95414?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" height="35" />
+  <img src="https://img.shields.io/badge/Claude%20Code-B85C3F?style=flat-square&amp;logo=claudecode&amp;logoColor=white" alt="Claude Code" height="35" />
   <br />
-  <img src="https://img.shields.io/badge/Codex-4E5D70?style=flat-square" alt="Codex" height="28" />
-  <img src="https://img.shields.io/badge/Figma-9B5A8E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" height="28" />
-  <img src="https://img.shields.io/badge/Slack-6C4D85?style=flat-square&amp;logo=slack&amp;logoColor=white" alt="Slack" height="28" />
-  <img src="https://img.shields.io/badge/Notion-404040?style=flat-square&amp;logo=notion&amp;logoColor=white" alt="Notion" height="28" />
+  <img src="https://img.shields.io/badge/Codex-4E5D70?style=flat-square" alt="Codex" height="35" />
+  <img src="https://img.shields.io/badge/Figma-9B5A8E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" height="35" />
+  <img src="https://img.shields.io/badge/Slack-6C4D85?style=flat-square&amp;logo=slack&amp;logoColor=white" alt="Slack" height="35" />
+  <img src="https://img.shields.io/badge/Notion-404040?style=flat-square&amp;logo=notion&amp;logoColor=white" alt="Notion" height="35" />
 </p>
 
 ---
