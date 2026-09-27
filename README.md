@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center"><strong>분석·모델링</strong> · 진한 배지: 현재 주력</p>
 
