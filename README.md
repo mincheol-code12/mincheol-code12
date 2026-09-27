@@ -57,11 +57,11 @@
 
 | Period | Name | Description | Role |
 |:--|:--|:--|:--|
-| — | [eCommerce CRM 분석](https://github.com/mincheol-code12/Funnel-Analysis-and-Crm-target) | 퍼널 이탈 진단 → CRM 타겟 선정 → 실험 제안 | — |
-| — | [SQL 게임 지표 분석](https://github.com/mincheol-code12/SQL_game_metrics_integrity_audit) | 게임 매출·리텐션 지표 검증과 고객 세분화 | — |
-| — | [Marketing A/B 테스트](https://github.com/mincheol-code12/marketing-AB_TEST) | 광고 효과를 검증하고 노출 상한 정책 검토 | — |
-| — | [LG VOC 분석](https://github.com/mincheol-code12/LG-DX-CX-Project) | 반려동물 VOC 분석을 제품 기획에 연결 | 데이터 수집·정제, 텍스트 분석 |
-| — | [Snowflake AI Data Hackathon](https://github.com/mincheol-code12/SNOWFLAKE-AI-DATA-Hackathon-2026) | 상품·유입 경로별 성과 진단과 운영 개선 | — |
+| 2026.01 ~ 2026.05 | [eCommerce CRM 분석](https://github.com/mincheol-code12/Funnel-Analysis-and-Crm-target) | 퍼널 이탈 진단 → CRM 타겟 선정 → 실험 제안 | — |
+| 2026.07 ~ 2026.08 | [SQL 게임 지표 분석](https://github.com/mincheol-code12/SQL_game_metrics_integrity_audit) | 게임 매출·리텐션 지표 검증과 고객 세분화 | — |
+| 2026.06 ~ 2026.07 | [Marketing A/B 테스트](https://github.com/mincheol-code12/marketing-AB_TEST) | 광고 효과를 검증하고 노출 상한 정책 검토 | — |
+| 2025.08 ~ 2025.10 | [LG VOC 분석](https://github.com/mincheol-code12/LG-DX-CX-Project) | 반려동물 VOC 분석을 제품 기획에 연결 | 데이터 수집·정제, 텍스트 분석 |
+| 2026.03 ~ 2026.04 | [Snowflake AI Data Hackathon](https://github.com/mincheol-code12/SNOWFLAKE-AI-DATA-Hackathon-2026) | 상품·유입 경로별 성과 진단과 운영 개선 | — |
 | 2024.10 ~ 2025.01 | [편의점 입지 분석](https://github.com/mincheol-code12/convenience-store-location-analysis) | 상권·접근성을 분석해 서울시 편의점 입지 제안 | 분석 설계·군집화·접근성 분석 |
 
 
