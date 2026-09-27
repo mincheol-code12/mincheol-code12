@@ -9,9 +9,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<p><strong>분석·모델링</strong> </p>
+## 🧠 분석·모델링
 
 <p>
   <img src="https://img.shields.io/badge/Python-193D4A?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28" />
@@ -33,7 +33,8 @@
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-287A9E?style=flat-square" alt="Matplotlib" height="28" />
   <img src="https://img.shields.io/badge/Tableau-C65E1A?style=flat-square&amp;logo=tableau&amp;logoColor=white" alt="Tableau" height="28" />
-  <img src="https://img.shields.io/badge/Redash-C65E69?style=flat-square" alt="Redash" height="28" />
+  <img src="https://img.shields.io/badge/Redash-C65E69?style=flat-square" alt="Redash" height="28" />  
+
   <img src="https://img.shields.io/badge/Looker%20Studio-426FB7?style=flat-square" alt="Looker Studio" height="28" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" height="28" />
 </p>
@@ -57,15 +58,15 @@
 
 | Period | Name | Description | Role |
 |:--|:--|:--|:--|
-| 2026.01 ~ 2026.05 | [eCommerce CRM 분석](https://github.com/mincheol-code12/Funnel-Analysis-and-Crm-target) | 퍼널 이탈 진단 → CRM 타겟 선정 → 실험 제안 | — |
-| 2026.07 ~ 2026.08 | [SQL 게임 지표 분석](https://github.com/mincheol-code12/SQL_game_metrics_integrity_audit) | 게임 매출·리텐션 지표 검증과 고객 세분화 | — |
-| 2026.06 ~ 2026.07 | [Marketing A/B 테스트](https://github.com/mincheol-code12/marketing-AB_TEST) | 광고 효과를 검증하고 노출 상한 정책 검토 | — |
+| 2026.01 ~ 2026.05 | [eCommerce CRM 분석](https://github.com/mincheol-code12/Funnel-Analysis-and-Crm-target) | 퍼널 이탈 진단 → CRM 타겟 선정 → 실험 제안 | 개인 |
+| 2026.07 ~ 2026.08 | [SQL 게임 지표 분석](https://github.com/mincheol-code12/SQL_game_metrics_integrity_audit) | 게임 매출·리텐션 지표 검증과 고객 세분화 | 개인 |
+| 2026.06 ~ 2026.07 | [Marketing A/B 테스트](https://github.com/mincheol-code12/marketing-AB_TEST) | 광고 효과를 검증하고 노출 상한 정책 검토 | 개인 |
 | 2025.08 ~ 2025.10 | [LG VOC 분석](https://github.com/mincheol-code12/LG-DX-CX-Project) | 반려동물 VOC 분석을 제품 기획에 연결 | 데이터 수집·정제, 텍스트 분석 |
-| 2026.03 ~ 2026.04 | [Snowflake AI Data Hackathon](https://github.com/mincheol-code12/SNOWFLAKE-AI-DATA-Hackathon-2026) | 상품·유입 경로별 성과 진단과 운영 개선 | — |
+| 2026.03 ~ 2026.04 | [Snowflake AI Data Hackathon](https://github.com/mincheol-code12/SNOWFLAKE-AI-DATA-Hackathon-2026) | 상품·유입 경로별 성과 진단과 운영 개선 | 개인 |
 | 2024.10 ~ 2025.01 | [편의점 입지 분석](https://github.com/mincheol-code12/convenience-store-location-analysis) | 상권·접근성을 분석해 서울시 편의점 입지 제안 | 분석 설계·군집화·접근성 분석 |
 
 
 ## 🏆 Awards
 
-- **LG전자 DX School 3기 핵심 역량 프로젝트 우수상** · [LG VOC 분석](https://github.com/mincheol-code12/LG-DX-CX-Project)
-- **WeIT × DataStation 데이터 프로젝트 1위** · [편의점 입지 분석](https://github.com/mincheol-code12/convenience-store-location-analysis)
+- **LG전자 DX School 3기 핵심 역량 프로젝트 우수상** · [LG VOC 분석]
+- **WeIT × DataStation 데이터 프로젝트 1위** · [편의점 입지 분석]
