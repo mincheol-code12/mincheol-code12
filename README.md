@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Data Analyst Portfolio - SQL, Statistics, Machine Learning" />
+  <img src="assets/banner.gif" width="100%" alt="Welcome with sparkles - animated blue wave banner" />
 </p>
 
 <p align="center">
-  #👋안녕하세요, 고민철입니다.<br />
-  #맡은 일을 깊이 파고드는 것을 좋아하고, 꾸준히 노력하며 더 나아지려는 태도가 제 강점이라고 생각합니다.
+  안녕하세요, 고민철입니다.<br />
+  맡은 일을 깊이 파고드는 것을 좋아하고, 꾸준히 노력하며 더 나아지려는 태도가 제 강점이라고 생각합니다.
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-**분석·모델링** 
+**분석·모델링** · 진한 배지: 현재 주력
 
 ![Python](https://img.shields.io/badge/Python-193D4A?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-193D4A?style=for-the-badge)
@@ -24,7 +24,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-B86410?style=flat-square&logo=scikit-learn&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-7064A4?style=flat-square)
 
-**🖥️ 시각화·BI**
+**시각화·BI**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-287A9E?style=flat-square)
 ![Tableau](https://img.shields.io/badge/Tableau-C65E1A?style=flat-square&logo=tableau&logoColor=white)
@@ -32,7 +32,7 @@
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-426FB7?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**🧰 Tools**
+### 🧰 Tools
 
 ![DBeaver](https://img.shields.io/badge/DBeaver-7A624C?style=flat-square)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-B95414?style=flat-square&logo=jupyter&logoColor=white)
