@@ -19,7 +19,8 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-286AB8?style=flat-square&logo=googlebigquery&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-4F5B93?style=flat-square&logo=pandas&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-4F5B93?style=flat-square&logo=pandas&logoColor=white)  
+
 ![NumPy](https://img.shields.io/badge/NumPy-4D77AB?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-B86410?style=flat-square&logo=scikit-learn&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-7064A4?style=flat-square)
